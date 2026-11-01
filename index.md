@@ -9,5 +9,6 @@ title: 차박이네
 
 - [이용약관]({{ '/terms/' | relative_url }})
 - [개인정보처리방침]({{ '/privacy/' | relative_url }})
+- [계정 삭제]({{ '/delete-account/' | relative_url }})
 
 문의: kr.shift33@gmail.com

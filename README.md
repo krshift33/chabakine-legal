@@ -5,5 +5,6 @@
 
 - 약관: `terms.md` → `/terms/`
 - 방침: `privacy.md` → `/privacy/`
+- 계정 삭제 안내: `delete-account.md` → `/delete-account/` (Google Play 데이터 보안의 계정 삭제 URL)
 
 문서를 고치면 앱의 `AuthService.termsVersion`(약관 버전)도 함께 올립니다.
